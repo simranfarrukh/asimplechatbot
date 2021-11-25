@@ -1,3 +1,7 @@
+# A Simple Chatbot (stepping stone for CYGNUS)
+# @author Simran
+# @version 1.0
+
 import nltk
 from nltk.chat.util import Chat, reflections
 
